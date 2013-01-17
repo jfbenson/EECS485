@@ -1,0 +1,19 @@
+body {
+	background-color: #E3CDA4;
+}
+
+
+div.banner { 
+       position: absolute; 
+       top: 0; 
+       left: 0; 
+       background-color: #4A0E08; 
+       width: 100%; 
+}
+.banner h2 a {	padding: 20px;
+		color:white;
+}
+
+.mainContent {
+	padding-top: 80px;
+}
